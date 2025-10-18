@@ -1,0 +1,57 @@
+# Git Practice Exercises - Ignore Rules
+
+# Practice folders created during exercises
+**/my-first-repo/
+**/git-history-practice/
+**/working-directory-practice/
+**/branching-basics/
+**/merging-practice/
+**/conflict-resolution/
+**/undo-mastery/
+**/stash-practice/
+**/cherry-pick-practice/
+**/rebase-mastery/
+**/bisect-debugging/
+**/wrong-branch-rescue/
+
+# Common Git practice patterns
+**/*-practice/
+**/*-exercise/
+**/test-repo/
+**/demo-repo/
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+
+# Node modules if doing advanced exercises
+node_modules/
+package-lock.json
+
+# Python if doing scripts
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Test outputs
+test-results/
+coverage/
+
+# Personal notes
+PERSONAL-NOTES.md
+my-notes.md
+scratch.md
